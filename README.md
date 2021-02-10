@@ -1,4 +1,4 @@
-# Escape-The-Forest
+# Escape-From-Forest
 
 ### Table of content
 
@@ -10,12 +10,12 @@
 
 ### Description of Project
 
-Hello Geeks, Escape The Forest is a 2D Adventure-Action game build with python pygame module. It is multi level game with 4 level. It includes an array of loaded quality sound which includes background music, fire sound and player hurt sound etc. It includes animation of character when idle, running, throwing and hurting so that the game looks more appealing and gives natural sense.
+Hello Geeks, Escape From Forest is a 2D Adventure-Action game build with python pygame module. It is multi level game with 4 level. It includes an array of loaded quality sound which includes background music, fire sound and player hurt sound etc. It includes animation of character when idle, running, throwing and hurting so that the game looks more appealing and gives natural sense.
 
 **The StoryLine** 
 
 
-Escape The Forest revolve around the story line of peter who is an archaeologists by profession. One day he went to Amazon Forest in brazil for discovery of new creatures, who were quite dangerous and poisionous. peter accidently caught their attention and suddenly rushed to escape the forest, during he escape he collected some gold coin from forest.
+Escape From Forest revolve around the story line of peter who is an archaeologists by profession. One day he went to Amazon Forest in brazil for discovery of new creatures, who were quite dangerous and poisionous. peter accidently caught their attention and suddenly rushed to escape the forest, during he escape he collected some gold coin from forest.
 peter bravely escaped the forest and was awarded greatest archaeologists award of his time.
 
 **Game Play**
@@ -35,7 +35,7 @@ All requirements including Languages or modules requirements are depicted below
 
 ### Installation
 
-Alien Awake installation is available by the help of pyinstaller version 4.2. To run the game follow below steps :
+Escape From Forest installation is available by the help of pyinstaller version 4.2. To run the game follow below steps :
 1. head to dist folder [https://github.com/prince210/Escape-The-Forest/tree/main/dist]
 2. place assets folder inside dist folder [https://github.com/prince210/Escape-The-Forest/tree/main/assets]
 3. Run escapeForestScript.exe [https://github.com/prince210/Escape-The-Forest/blob/main/dist/escapeForestScript.exe]
